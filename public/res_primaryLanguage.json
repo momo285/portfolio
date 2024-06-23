@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 Hi, I'm Mohamed Elsayed, a recent graduate with a degree in Artificial Intelligence and Computer Science from the University of Birmingham. My passion lies in leveraging technology to address real-world challenges, and I've honed my skills through diverse experiences in internships, personal projects, and leadership roles. I have a solid foundation in programming languages such as Python, Java, and JavaScript, and I'm well-versed in frameworks and tools like React, Angular, and Docker. My expertise spans developing AI algorithms, optimizing databases, and creating engaging user interfaces. Beyond technical skills, I've demonstrated leadership and event management abilities, notably by organizing a successful hackathon that attracted industry professionals from Goldman Sachs, EY, and Santander. I thrive in dynamic environments and am always eager to learn and grow. Feel free to explore my projects and skills, and don't hesitate to get in touch if you’d like to collaborate or learn more about my work. Skills",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,22 +11,23 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "AI-driven job matching algorithm",
+        "startDate": "2024",
+        "description": " Developed an AI-driven job matching algorithm using Python and React. The algorithm incorporates word embeddings and TF-IDF techniques, and integrates OpenAI’s API to enhance matching accuracy. This project showcases my expertise in AI, machine learning, and full-stack development..",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/ai2.jpg",
+          "images/portfolio/animal-shelter/ai3.jpg",
+          "images/portfolio/animal-shelter/ai1.jpg"
         ],
         "url": "",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
             "class": "devicon-csharp-plain",
@@ -35,14 +36,16 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Dynamic 7-day weather forecasting",
+        "startDate": "2024",
+        "description": "Developed a dynamic 7-day weather forecasting web application for a European travel agency using HTML, CSS, and JavaScript. The project fetches real-time weather data from the 7Timer API, enhancing user engagement and increasing online travel bookings",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/weather1.jpg",
+          "images/portfolio/photography/weather2.jpg",
+          "images/portfolio/photography/weather3.jpg"
+
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/momo285/weatherforecast",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -54,15 +57,18 @@
           }
         ]
       },
+    
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "AI Market Analysis Webapp",
+        "startDate": "2023",
+        "description": "Developed an AI-powered web application to assist investors and analysts by providing insights through features like news feeds, pricing strategies, simulation modules, and competitor analysis. This project showcases my expertise in Angular, JavaScript, and API integration. ",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/m1.jpg",
+          "images/portfolio/adventure/m2.jpg",
+          "images/portfolio/adventure/m3.jpg",
+          "images/portfolio/adventure/42.jpg"
+
         ],
-        "url": "https://github.com",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -71,47 +77,64 @@
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
+          }
+         
+        ]
+      },
+      {
+        "title": "Challenge-Based Hiring Platform (Figma Designs) ",
+        "startDate": "2023",
+        "description": "Designed a user-friendly challenge-based hiring platform using Figma to streamline the recruitment process. The platform allows candidates to find, enter, and submit challenges, while employers can evaluate submissions effectively. Key features include a personalized dashboard, challenge submission interface, detailed challenge descriptions, and interactive notifications",
+        "images": [
+          "images/portfolio/photography/c1.jpg",
+          "images/portfolio/photography/c2.jpg",
+          "images/portfolio/photography/c3.jpg",
+          "images/portfolio/photography/c4.jpg"
+
+  
+        ],
+       "technologies": [
+          {
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "",
+            "name": "" 
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Jigsaw Careerss",
+        "title": "Co-founder & Tech lead",
+        "years": "2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Svelte"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "CSS",
+          "Astro"
+  
+   
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "New Hawai For Tourism & Investment",
+        "title": "IT Summer Intern",
+        "years": "2023 - 2023",
         "mainTech": [
-          "Angular 7/8"
+          "SQL "
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "AWS",
+          "APIs",
+          "SQL"
+
         ]
       }
     ]
